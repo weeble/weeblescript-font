@@ -4,3 +4,4 @@ A font for making informal diagrams in a scribbly style, while taking care to re
 
 ![Example characters](Weeblescript_overview.png)
 
+[Download here.](https://github.com/weeble/weeblescript-font/releases)
